@@ -26,5 +26,12 @@
         "imageUrl": "img/projects/archangel/archangel1.jpg",
         "name": "Archangel",
         "snippet": "Our Microsoft Imagine Cup 2012 project: an emergency monitoring system with integrated network of unmanned aerial vehicles"
-    }
+    },
+    {
+        "age": 3,
+        "id": "testograph",
+        "imageUrl": "img/projects/testograph/testograph.jpg",
+        "name": "Testograph",
+        "snippet": "A software for designing paper-based tests"
+    }    
 ]
