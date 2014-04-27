@@ -8,7 +8,7 @@ projectcatAnimations.animation('.project', function() {
     }
     element.css({
       position: 'absolute',
-      top: 500,
+      top: 800,
       left: 0,
       display: 'block'
     });
@@ -35,7 +35,7 @@ projectcatAnimations.animation('.project', function() {
     });
 
     jQuery(element).animate({
-      top: -500
+      top: -800
     }, done);
 
     return function(cancel) {

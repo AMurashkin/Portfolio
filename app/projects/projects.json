@@ -19,5 +19,12 @@
         "imageUrl": "img/projects/tste/tste1.jpg", 
         "name": "Turbo String Table Editor", 
         "snippet": "An editor of CSF files - string tables used by the games Command and Conquer: Generals, Red Alert 2 and BFME"
+    },
+    {
+        "age": 3,
+        "id": "archangel",
+        "imageUrl": "img/projects/archangel/archangel1.jpg",
+        "name": "Archangel",
+        "snippet": "Our Microsoft Imagine Cup 2012 project: an emergency monitoring system with integrated network of unmanned aerial vehicles"
     }
 ]
