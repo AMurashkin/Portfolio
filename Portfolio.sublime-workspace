@@ -1,0 +1,425 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new",
+				"newExtent"
+			],
+			[
+				"goals",
+				"goalsModule"
+			],
+			[
+				"exten",
+				"extents"
+			],
+			[
+				"find",
+				"findModule"
+			],
+			[
+				"brus",
+				"brushElem"
+			],
+			[
+				"b",
+				"brush"
+			],
+			[
+				"clear",
+				"clearSelection"
+			],
+			[
+				"op",
+				"option	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Projects/ClaferMooVisualizer/Server/includes.json",
+		"/D/Shared/2014.04.25-call-with-Tom-Ramesh/notes-alex.txt",
+		"/D/Shared/2014.04.25-call-with-Tom-Ramesh/Domains.cfr",
+		"/D/Projects/ClaferMooVisualizer/Server/Client/custom_parallel_coordinates/parcoords.js",
+		"/C/Users/Alex/Downloads/instances.cfr (14).data",
+		"/C/Users/Alex/Desktop/GMClaferExamples/Domains2.cfr",
+		"/D/Projects/ClaferConfigurator/Server/commons/Client/utils/table_visualizer.js",
+		"/D/Projects/ClaferMooVisualizer/Server/Client/modules/md_spider_chart.js",
+		"/D/Projects/ClaferMooVisualizer/Server/Client/styles.css",
+		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/modules/md_feature_quality_matrix.js",
+		"/D/Projects/ClaferMooVisualizer/Server/Client/custom_parallel_coordinates/parcoords.css",
+		"/D/Projects/ClaferMooVisualizer/Server/Client/client.js",
+		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/utils/table_visualizer.js",
+		"/D/Projects/angular-projectcat/bower.json",
+		"/C/Users/Alex/Desktop/index.php",
+		"/D/Shared/2014.04.15 internal/Domains.cfr",
+		"/C/Users/Alex/Desktop/LOANER/modes/contractorPackaging_large_5_objectives.cfr",
+		"/D/Projects/ClaferMooVisualizer/Server/Client/modules/md_graph.js",
+		"/D/Projects/ClaferMooVisualizer/Server/Client/modules/md_parallel_coordinates.js",
+		"/D/Projects/ClaferMooVisualizer/Server/Client/utils/instance_filter.js",
+		"/D/Projects/ClaferMooVisualizer/Server/Client/modules/md_goals.js",
+		"/D/Projects/ClaferMooVisualizer/Server/ClaferMooVisualizer.js",
+		"/D/Projects/ClaferIDE/Server/ClaferIDE.js",
+		"/D/Projects/ClaferMooVisualizer/Server/Client/configuration.js",
+		"/D/Projects/ClaferMooVisualizer/Server/Client/utils/utils.js",
+		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/styles.css",
+		"/D/Projects/ClaferMooVisualizer/Server/Client/utils/radarchart_visualizer.js",
+		"/D/Projects/ClaferMooVisualizer/Server/Client/utils/evolution_controller.js",
+		"/C/Users/Alex/Downloads/instances.cfr (10).data",
+		"/C/Users/Alex/Downloads/instances.cfr (13).data",
+		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/utils/instance_processor.js",
+		"/D/Projects/ClaferMooVisualizer/Server/Client/utils/pf_visualizer.js",
+		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/utils/instance_converter.js",
+		"/D/Projects/ClaferMooVisualizer/Server/Client/utils/selection_controller.js",
+		"/D/Projects/ClaferMooVisualizer/Server/Client/modules/hovering_extensions.js",
+		"/D/Projects/ClaferMooVisualizer/Server/Client/modules/md_variant_comparer.js",
+		"/C/Users/Alex/Downloads/instances.cfr (tmp).data",
+		"/C/Users/Alex/Downloads/instances.cfr (9).data",
+		"/C/Users/Alex/Downloads/instances.cfr (8).data",
+		"/C/Users/Alex/Downloads/instances.cfr (7).data",
+		"/C/Users/Alex/Downloads/instances.cfr (4).data",
+		"/C/Users/Alex/Downloads/instances.cfr (2).data",
+		"/C/Users/Alex/Downloads/instances.cfr (3).data",
+		"/C/Users/Alex/Downloads/instances.cfr (6).data",
+		"/C/Users/Alex/Downloads/instances.cfr (5).data",
+		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/jquery-windows-engine/jquery.windows-engine.js",
+		"/C/Users/Alex/Downloads/instances.cfr (1).data",
+		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/main.js",
+		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/init.js",
+		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/app.html",
+		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/utils/data_table.js",
+		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/modules/md_goals.js",
+		"/D/Projects/ClaferMooVisualizer/Server/Client/parallel_coordinates/d3.parcoords.js",
+		"/D/Projects/ClaferMooVisualizer/Server/Client/parallel_coordinates/d3.parcoords.css",
+		"/C/Users/Alex/Downloads/Domains.cfr",
+		"/D/Projects/ClaferMooVisualizer/Server/Client/utils/dojo_init.js",
+		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/loader.js",
+		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/dojo/dojo/dojo.js",
+		"/D/Projects/ClaferConfigurator/Server/commons/Client/app.html",
+		"/C/Users/Alex/Desktop/tmp/backends.json",
+		"/D/Projects/chocosolver/target/compiled.js",
+		"/C/Users/Alex/Desktop/GMClaferExamples/Domains.cfr",
+		"/C/Users/Alex/Desktop/functional domains.txt",
+		"/D/Projects/ClaferIDE/Server/Backends/backends.json",
+		"/D/Projects/ClaferIDE/Server/commons/Client/modules/md_control.js",
+		"/D/Projects/ClaferIDE/Server/commons/common_lib.js",
+		"/D/Projects/ClaferConfigurator/Server/Backends/backends.json",
+		"/D/Projects/ClaferMooVisualizer/Server/Backends/backends.json",
+		"/D/Projects/ClaferConfigurator/Server/Client/configuration.js",
+		"/D/Projects/ClaferConfigurator/Server/Client/utils/worker.js",
+		"/D/Projects/ClaferIDE/Server/Client/configuration.js",
+		"/D/Projects/ClaferConfigurator/Server/commons/Client/modules/md_control.js",
+		"/D/Projects/ClaferIDE/Server/commons/Client/modules/md_input.js",
+		"/C/Users/Alex/Desktop/GMClaferExamples/1.cfr",
+		"/D/Projects/ClaferConfigurator/Server/commons/Client/utils/instance_converter.js",
+		"/C/Users/Alex/Desktop/backendsjson/backends.json",
+		"/C/Users/Alex/Desktop/backendsjson/listWebTools.sh",
+		"/C/Users/Alex/Desktop/accesscontrol.html",
+		"/D/Shared/2014.04.01-02 internal/ArchitecturalDecisions.cfr",
+		"/D/Projects/ClaferConfigurator/Server/Client/help_pages/intro.html",
+		"/C/Users/Alex/Desktop/GMClaferExamples/ASIL+NoIPMixing.cfr",
+		"/C/Users/Alex/Desktop/LOANER/modes/contractorPackaging_small.cfr",
+		"/C/Users/Alex/Desktop/backends.json",
+		"/D/Projects/ClaferConfigurator/Server/ClaferConfigurator.js",
+		"/C/Users/Alex/Desktop/backendsjson/runClaferZ3",
+		"/D/Projects/ClaferIDE/Server/config.json",
+		"/D/Projects/ClaferIDE/Server/package.json",
+		"/D/Projects/ClaferMooVisualizer/Server/package.json",
+		"/D/Projects/ClaferConfigurator/Server/config.json",
+		"/D/Projects/ClaferConfigurator/Server/package.json",
+		"/D/Projects/ClaferMooVisualizer/Server/Client/help_pages/intro.html",
+		"/D/Projects/ClaferConfigurator/Server/Client/help_pages/mdControl.html",
+		"/D/Projects/ClaferMooVisualizer/Server/Client/help_pages/mdFeatureQualityMatrix.html",
+		"/D/Projects/ClaferConfigurator/Server/Client/help_pages/mdFeatureQualityMatrix.html",
+		"/D/Projects/ClaferConfigurator/Server/Client/help_pages/mdInput.html",
+		"/D/Projects/ClaferConfigurator/Server/Client/help_pages/mdConstraints.html",
+		"/D/Projects/ClaferConfigurator/Server/Client/help_pages/mdOutput.html",
+		"/D/Projects/ClaferIDE/Server/Client/help_pages/mdControl.html",
+		"/D/Projects/ClaferIDE/Server/Client/help_pages/mdInput.html",
+		"/D/Projects/ClaferIDE/Server/Client/help_pages/mdCompiledFormats.html",
+		"/D/Projects/ClaferMooVisualizer/Server/Client/help_pages/mdGoals.html",
+		"/D/Projects/ClaferMooVisualizer/Server/Client/help_pages/mdGraph.html",
+		"/D/Projects/ClaferMooVisualizer/Server/Client/help_pages/mdVariantComparer.html",
+		"/D/Projects/ClaferMooVisualizer/Server/Client/help_pages/mdInput.html",
+		"/D/Projects/ClaferCaseStudies/AADLToClafer/AADL_Complete.cfr",
+		"/C/Users/Alex/Desktop/LOANER/modes/contractorPackaging_medium.cfr",
+		"/C/Users/Alex/Desktop/LOANER/modes/contractorPackaging_large.cfr",
+		"/C/Users/Alex/Desktop/tmp/listWebTools.sh",
+		"/D/Projects/ClaferConfigurator/Server/commons/Client/utils/instance_processor.js",
+		"/C/Users/Alex/Desktop/ASIL+NoIPMixing.cfr",
+		"/C/Users/Alex/Desktop/tmp/backends_conf.json",
+		"/C/Users/Alex/Desktop/tmp/startWebTools.sh",
+		"/D/Projects/ClaferConfigurator/Server/commons/start.sh",
+		"/D/Projects/ClaferMooVisualizer/Server/commons/start2.sh",
+		"/D/Projects/ClaferMooVisualizer/Server/commons/start.sh",
+		"/C/Users/Alex/Desktop/tmp/backends_moo.json",
+		"/C/Users/Alex/Desktop/tmp/backends_moo_new.json",
+		"/C/Users/Alex/Desktop/tmp/pullWebTools.sh",
+		"/C/Users/Alex/Desktop/tmp/backends_ide.json",
+		"/C/Users/Alex/Desktop/tmp/runClaferZ3",
+		"/D/Projects/ClaferConfigurator/Server/commons/Client/utils/data_table.js",
+		"/C/Users/Alex/Desktop/1.xml",
+		"/D/Projects/ClaferConfigurator/Server/Client/utils/utils.js",
+		"/D/Projects/ClaferConfigurator/Server/commons/Client/utils/clafer_processor.js",
+		"/C/Users/Alex/Desktop/GMClaferExamples/InterferenceSensitive+Integrated.cfr",
+		"/C/Users/Alex/Desktop/startWebTools.sh",
+		"/C/Users/Alex/Desktop/pullWebTools.sh",
+		"/C/Users/Alex/Desktop/listWebTools.sh"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"maxLe",
+			"&hellip;",
+			"…",
+			"'...'",
+			"\"...\"",
+			"...",
+			"Domain",
+			"filter",
+			"resize",
+			"redraw",
+			"onFilteredByRange",
+			"setRange",
+			"brush",
+			"log",
+			".log",
+			"console.l",
+			"getFea",
+			"axis",
+			"'.'",
+			"\".\"",
+			"path",
+			"log(",
+			"log",
+			"log(",
+			"onBrushEnd",
+			"hidden",
+			"onBrushEnd",
+			"filter",
+			"setRange",
+			"setRange(",
+			"filterContent",
+			"setRange",
+			"onRangeFilter",
+			"onFilteredByRange",
+			"filterContent",
+			"log",
+			"setRange",
+			"filter",
+			"indexFromClassName",
+			"context",
+			"onFilteredByRange",
+			"onFilterByGoals",
+			"resize",
+			"getFeatureValue",
+			"getIdenticalID",
+			"getFeatureValue",
+			"getIdenticalID",
+			"filter",
+			"synchronizeWidths",
+			"width",
+			"getIdenticalID",
+			"clearSe",
+			"over",
+			"onResizeEnd",
+			"setRa",
+			"setRan",
+			"selected",
+			"innerWidth-20",
+			",\n",
+			"background",
+			"foreground",
+			"dimensions",
+			"brush",
+			"brushed",
+			"parsePID",
+			"filterByGoals",
+			"tooltip",
+			"levels",
+			"catego",
+			"cate",
+			"sans",
+			"  \n",
+			"id =",
+			"id=",
+			"goals",
+			"filter",
+			"that",
+			"Highlighter",
+			"addHovering",
+			"parsePID",
+			"PID",
+			"filterPID",
+			"dimensions",
+			"transition",
+			"trans",
+			"render",
+			"brush",
+			"brushContext",
+			"variant",
+			"moveToFront",
+			"g",
+			"g.",
+			"x",
+			"y",
+			"String",
+			"text",
+			"projection",
+			"y(",
+			"x(",
+			"w",
+			"y",
+			"h",
+			"svg",
+			"brush",
+			"foreground",
+			"body",
+			"data",
+			"cars",
+			"pcCh",
+			"d3",
+			"clearSe",
+			"selection",
+			"radar-chart-serie",
+			"parsePID",
+			"PID",
+			"onSelectionChanged",
+			"toolt",
+			"mouseover",
+			"args",
+			"argsToArray",
+			"selectio",
+			"select",
+			"e.",
+			"e",
+			"Format",
+			"%",
+			"jQuery",
+			"require"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"innerWidth-rightMargin",
+			"context.dimensions",
+			"id",
+			"data"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 377.0,
+	"status_bar_visible": true
+}

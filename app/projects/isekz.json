@@ -1,0 +1,24 @@
+{
+    "id": "isekz", 
+    "title": "ISE.KZ",
+    "category": "Website",
+    "authors": "Alexandr Murashkin", 
+    "description": [
+            "MOTOROLA ATRIX 4G gives you dual-core processing power and the revolutionary", 
+            "webtop application. With webtop and a compatible Motorola docking station", 
+            "sold separately, you can surf the Internet with a full Firefox browser, create", 
+            "and edit docs, or access multimedia on a large screen almost anywhere."
+        ],
+    "commercial": true,
+    "technologies": "Drupal CMF, MySQL, PHP, Javascript, CSS, HTML",
+    "url": "http://ise.kz (now they have posted another version",
+    "images": [
+        "img/projects/isekz/ise1.png", 
+        "img/projects/isekz/ise2.png", 
+        "img/projects/isekz/ise3.png", 
+        "img/projects/isekz/ise4.png", 
+        "img/projects/isekz/ise5.png", 
+        "img/projects/isekz/ise6.png", 
+        "img/projects/isekz/ise7.png"
+    ]
+}

@@ -1,0 +1,23 @@
+[
+    {
+        "age": 0, 
+        "id": "isekz", 
+        "imageUrl": "img/projects/isekz/ise1.png", 
+        "name": "ISE.KZ", 
+        "snippet": "Website for the International School of Economics and Social Science"
+    }, 
+    {
+        "age": 1, 
+        "id": "rrrpg", 
+        "imageUrl": "img/projects/rrrpg/rrrpg.png", 
+        "name": "Rock'n Roll Racing Password Generator", 
+        "snippet": "A tool for generating passwords for Rock'n Roll Racing - a famous SEGA console game"
+    }, 
+    {
+        "age": 2, 
+        "id": "tste", 
+        "imageUrl": "img/projects/tste/tste1.jpg", 
+        "name": "Turbo String Table Editor", 
+        "snippet": "An editor of CSF string tables - for the games Command and Conquer: Generals and others"
+    }
+]

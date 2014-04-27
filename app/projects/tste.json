@@ -1,0 +1,18 @@
+{
+    "id": "tste", 
+    "title": "Turbo String Table Editor",
+    "category": "Desktop Application",
+    "authors": "Alexandr Murashkin", 
+    "description": [
+            "MOTOROLA ATRIX 4G gives you dual-core processing power and the revolutionary", 
+            "webtop application. With webtop and a compatible Motorola docking station", 
+            "sold separately, you can surf the Internet with a full Firefox browser, create", 
+            "and edit docs, or access multimedia on a large screen almost anywhere."
+        ],
+    "commercial": false,
+    "technologies": "Delphi 7, WinAPI",
+    "images": [
+        "img/projects/tste/tste1.jpg", 
+        "img/projects/tste/tste2.jpg"
+    ]
+}

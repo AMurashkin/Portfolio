@@ -1,0 +1,16 @@
+{
+  "name": "amurashkin-portfolio",
+  "description": "An accumulation of my projects",
+  "version": "0.1.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.2.x",
+    "angular-mocks": "~1.2.x",
+    "bootstrap": "~3.1.1",
+    "angular-route": "~1.2.x",
+    "angular-resource": "~1.2.x",
+    "jquery": "1.10.2",
+    "angular-animate": "~1.2.x"
+  }
+}
