@@ -33,9 +33,10 @@ div.view-container{
 .project-images {
   margin-right:1em;
   width: 600px;
-  height: 460px;
+  height: 600px;
   overflow: hidden;
   position: relative;
+  border: 1px solid gray;
   float: left;
 }
 
@@ -57,7 +58,7 @@ div.view-container{
   clear: both;
   height: 115px;
   padding-top: 15px;
-  background: #eee;
+  background: white;
 }
 
 .projects li img{
@@ -73,7 +74,6 @@ img.project {
   margin-right: 3em;
   margin-bottom: 2em;
   background-color: white;
-  border: 1px solid black;
   width: 600px;
   display: none;
 }
@@ -85,6 +85,11 @@ img.project:first-child {
 
 div.project-thumbs-container{
   clear:both;
+  background: white;
+}
+
+.description{
+  background: white;
 }
 
 ul.project-thumbs {
@@ -115,6 +120,7 @@ ul.project-thumbs img:hover {
 ul.specs {
   margin: 0;
   list-style: none;
+  background: white;
 }
 
 ul.specs > li{
@@ -172,4 +178,9 @@ h1 {
 
 .contact img.ref-icon{
   margin-right:5px;
+}
+
+.bio, .contact{
+    background: white;
+    padding:5px;
 }
