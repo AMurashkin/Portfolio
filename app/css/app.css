@@ -2,13 +2,35 @@
 /* app css stylesheet */
 /*-------------------------------*/
 
-body {
-  padding-top: 20px;
+a:link {
+  color: #0000ff;
+} 
+
+a:visited {
+  color: #0000ff;
 }
 
+a:hover {
+  color: #007; 
+}
+
+a:active { 
+} 
+
+body {
+  padding:0;
+  margin:0;
+  height:100%;
+  overflow:hidden;
+}
+
+div.view-container{
+  position: relative;
+  left:0;
+  top:0;
+}
 
 .project-images {
-  background-color: white;
   margin-right:1em;
   width: 600px;
   height: 460px;
@@ -19,6 +41,8 @@ body {
 
 .projects {
   list-style: none;
+  padding:0;
+  margin:0;
 }
 
 .thumb {
@@ -33,6 +57,11 @@ body {
   clear: both;
   height: 115px;
   padding-top: 15px;
+  background: #eee;
+}
+
+.projects li img{
+  border: 1px solid black;
 }
 
 /*-------------------------------*/
@@ -62,6 +91,7 @@ ul.project-thumbs {
   margin: 0;
   padding: 0;
   list-style: none;
+  border: 1px solid black;
 }
 
 ul.project-thumbs li {
@@ -106,4 +136,40 @@ ul.specs dt {
 
 h1 {
   border-bottom: 1px solid gray;
+}
+
+/* Bio */
+
+.bio {
+}
+
+.bio .name {
+  font-weight: bold;
+}
+
+.bio ul.degrees{
+  list-style: none;
+  font-size:smaller;
+  margin:0;
+  padding:0;
+}
+
+.bio ul.degrees .degree{
+  margin-top:3px;
+}
+
+.bio ul.degrees .degree img.country-icon{
+  margin-right:5px;
+}
+
+.bio .status-title, .bio .references-title{
+  font-weight: bold;  
+}
+
+.bio img.ref-icon{
+  margin-right:5px;
+}
+
+.contact img.ref-icon{
+  margin-right:5px;
 }

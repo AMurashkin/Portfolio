@@ -6,6 +6,7 @@
   <link rel="stylesheet" href="../bower_components/bootstrap/dist/css/bootstrap.css">
   <link rel="stylesheet" href="css/app.css">
   <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="css/background.css"> <!-- http://dellsystem.me/posts/night-sky-css/ -->
 
   <script src="../bower_components/jquery/jquery.js"></script>
   <script src="../bower_components/angular/angular.js"></script>
@@ -19,6 +20,11 @@
   <script src="js/services.js"></script>
 </head>
 <body>
+  <div id="stars">
+      <div class="large"></div>
+      <div class="medium"></div>
+      <div class="small"></div>
+  </div>
 
   <div class="view-container">
     <div ng-view class="view-frame"></div>

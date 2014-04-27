@@ -1,0 +1,34 @@
+#stars {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #D3BCD6;
+    background-repeat: repeat-x;
+    background-image: -khtml-gradient(linear, left top, left bottom, from(#ffffff), to(#D3BCD6));
+    background-image: -moz-linear-gradient(top, #ffffff, #D3BCD6);
+    background-image: -ms-linear-gradient(top, #ffffff, #D3BCD6);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, #D3BCD6));
+    background-image: -webkit-linear-gradient(top, #ffffff, #D3BCD6);
+    background-image: -o-linear-gradient(top, #ffffff, #D3BCD6);
+    background-image: linear-gradient(top, #ffffff, #D3BCD6); 
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#D3BCD6', GradientType=0);
+    margin-bottom: 10px;
+}
+
+#stars div {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+#stars .large {
+    background: url('/app/img/stars/stars_large.png');
+}
+
+#stars .medium {
+    background: url('/app/img/stars/stars_medium.png');
+}
+
+#stars .small {
+    background: url('/app/img/stars/stars_small.png');
+}
