@@ -90,6 +90,7 @@ div.project-thumbs-container{
 
 .description{
   background: white;
+  float:left;
 }
 
 ul.project-thumbs {
@@ -121,6 +122,12 @@ ul.specs {
   margin: 0;
   list-style: none;
   background: white;
+  padding:0;
+}
+
+ul.specs li{
+  margin: 0;
+  padding:0;
 }
 
 ul.specs > li{
@@ -183,4 +190,21 @@ h1 {
 .bio, .contact{
     background: white;
     padding:5px;
+}
+
+div.contribution{
+    background: white;
+}
+
+ul.contribution{
+  list-style: none;
+}
+
+ul.contribution li{
+  margin:0;
+  padding:0;
+}
+
+.backlink{
+  float:left;  
 }

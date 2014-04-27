@@ -18,6 +18,6 @@
         "id": "tste", 
         "imageUrl": "img/projects/tste/tste1.jpg", 
         "name": "Turbo String Table Editor", 
-        "snippet": "An editor of CSF string tables - for the games Command and Conquer: Generals and others"
+        "snippet": "An editor of CSF files - string tables used by the games Command and Conquer: Generals, Red Alert 2 and BFME"
     }
 ]

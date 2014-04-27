@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"back",
+				"background"
+			],
+			[
 				"new",
 				"newExtent"
 			],
@@ -39,6 +43,70 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "app/partials/project-list.html",
+			"settings":
+			{
+				"buffer_size": 2465,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/controllers.js",
+			"settings":
+			{
+				"buffer_size": 1703,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/partials/project-detail.html",
+			"settings":
+			{
+				"buffer_size": 1044,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/css/app.css",
+			"settings":
+			{
+				"buffer_size": 2319,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/animations.js",
+			"settings":
+			{
+				"buffer_size": 927,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 1238,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/services.js",
+			"settings":
+			{
+				"buffer_size": 329,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/css/background.css",
+			"settings":
+			{
+				"buffer_size": 1128,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -64,134 +132,134 @@
 	},
 	"file_history":
 	[
+		"/D/Projects/Portfolio/app/js/app.js",
+		"/D/Projects/Portfolio/app/css/animations.css",
+		"/D/Projects/Portfolio/app/projects/projects.json",
+		"/D/Projects/Portfolio/app/js/filters.js",
+		"/D/Projects/Portfolio/app/js/services.js",
+		"/D/Projects/Portfolio/app/projects/rrrpg.json",
+		"/D/Projects/Portfolio/app/projects/tste.json",
+		"/D/Projects/Portfolio/app/css/background.css",
+		"/D/Projects/Portfolio/app/projects/isekz.json",
+		"/D/Projects/Portfolio/app/projects/t-mobile-mytouch-4g.json",
+		"/D/Projects/Portfolio/bower.json",
+		"/D/Projects/Portfolio/app/index.html",
+		"/D/Projects/Portfolio/app/partials/project-detail.html",
+		"/D/Projects/Portfolio/app/projects/motorola-atrix-4g.json",
+		"/D/Projects/Portfolio/app/js/controllers.js",
+		"/D/Projects/Portfolio/app/js/animations.js",
+		"/D/Projects/Portfolio/app/partials/project-list.html",
+		"/D/Projects/Portfolio/app/css/app.css",
+		"/D/Projects/Portfolio/app/partials/phone-detail.html",
+		"/D/Projects/Portfolio/app/partials/phone-list.html",
+		"/D/Projects/Portfolio/app/phones/dell-streak-7.json",
+		"/D/Projects/Portfolio/app/phones/dell-venue.json",
+		"/D/Projects/Portfolio/app/phones/droid-2-global-by-motorola.json",
+		"/D/Projects/Portfolio/app/phones/droid-pro-by-motorola.json",
+		"/D/Projects/Portfolio/app/phones/lg-axis.json",
+		"/D/Projects/Portfolio/app/phones/motorola-atrix-4g.json",
+		"/D/Projects/Portfolio/app/phones/motorola-bravo-with-motoblur.json",
+		"/D/Projects/Portfolio/app/phones/motorola-charm-with-motoblur.json",
+		"/D/Projects/Portfolio/app/phones/motorola-defy-with-motoblur.json",
+		"/D/Projects/Portfolio/app/phones/motorola-xoom-with-wi-fi.json",
+		"/D/Projects/Portfolio/app/phones/motorola-xoom.json",
+		"/D/Projects/Portfolio/app/phones/nexus-s.json",
+		"/D/Projects/Portfolio/app/phones/phones.json",
+		"/D/Projects/Portfolio/app/phones/samsung-galaxy-tab.json",
+		"/D/Projects/Portfolio/app/phones/samsung-gem.json",
+		"/D/Projects/Portfolio/app/phones/samsung-mesmerize-a-galaxy-s-phone.json",
+		"/D/Projects/Portfolio/app/phones/samsung-showcase-a-galaxy-s-phone.json",
+		"/D/Projects/Portfolio/app/phones/samsung-transform.json",
+		"/D/Projects/Portfolio/app/phones/sanyo-zio.json",
+		"/D/Projects/Portfolio/app/phones/t-mobile-g2.json",
+		"/D/Projects/Portfolio/app/phones/t-mobile-mytouch-4g.json",
+		"/D/Projects/Portfolio/bower_components/angular/angular.js",
+		"/D/Projects/Portfolio/bower_components/angular-mocks/angular-mocks.js",
+		"/D/Projects/Portfolio/bower_components/bootstrap/dist/css/bootstrap.css",
+		"/D/Projects/Portfolio/bower_components/bootstrap/dist/css/bootstrap.css.map",
+		"/D/Projects/Portfolio/bower_components/bootstrap/dist/css/bootstrap.min.css",
+		"/D/Projects/Portfolio/bower_components/bootstrap/less/glyphicons.less",
+		"/D/Projects/Portfolio/bower_components/bootstrap/less/grid.less",
+		"/D/Projects/Portfolio/bower_components/bootstrap/less/responsive-utilities.less",
+		"/D/Projects/Portfolio/bower_components/bootstrap/less/variables.less",
+		"/D/Projects/Portfolio/bower_components/bootstrap/test-infra/sauce_browsers.yml",
+		"/D/Projects/Portfolio/bower_components/jquery/jquery.js",
+		"/D/Projects/Portfolio/bower_components/jquery/speed/index.html",
+		"/D/Projects/Portfolio/bower_components/jquery/src/offset.js",
+		"/D/Projects/Portfolio/node_modules/bower/node_modules/bower-config/node_modules/mout/package.json",
+		"/D/Projects/Portfolio/node_modules/bower/node_modules/bower-json/node_modules/intersect/package.json",
+		"/D/Projects/Portfolio/node_modules/bower/node_modules/bower-registry-client/node_modules/bower-config/node_modules/mout/package.json",
+		"/D/Projects/Portfolio/node_modules/bower/node_modules/bower-registry-client/node_modules/request/node_modules/mime/types/mime.types",
+		"/D/Projects/Portfolio/node_modules/bower/node_modules/insight/node_modules/configstore/node_modules/js-yaml/node_modules/argparse/node_modules/underscore.string/test/strings.js",
+		"/D/Projects/Portfolio/node_modules/bower/node_modules/insight/node_modules/configstore/node_modules/js-yaml/node_modules/argparse/node_modules/underscore.string/test/test_underscore/vendor/jslitmus.js",
+		"/D/Projects/Portfolio/node_modules/bower/node_modules/insight/node_modules/request/node_modules/mime/types/mime.types",
+		"/D/Projects/Portfolio/node_modules/bower/node_modules/mout/package.json",
+		"/D/Projects/Portfolio/node_modules/bower/node_modules/request/node_modules/mime/types/mime.types",
+		"/D/Projects/Portfolio/node_modules/bower/node_modules/request/node_modules/tough-cookie/public-suffix.txt",
+		"/D/Projects/Portfolio/node_modules/bower/node_modules/request/node_modules/tough-cookie/lib/pubsuffix.js",
+		"/D/Projects/Portfolio/node_modules/bower/node_modules/shell-quote/package.json",
+		"/D/Projects/Portfolio/node_modules/bower/node_modules/shell-quote/node_modules/array-filter/package.json",
+		"/D/Projects/Portfolio/node_modules/bower/node_modules/shell-quote/node_modules/array-map/package.json",
+		"/D/Projects/Portfolio/node_modules/bower/node_modules/shell-quote/node_modules/array-reduce/package.json",
+		"/D/Projects/Portfolio/node_modules/bower/node_modules/update-notifier/node_modules/configstore/node_modules/js-yaml/node_modules/argparse/node_modules/underscore.string/test/strings.js",
+		"/D/Projects/Portfolio/node_modules/bower/node_modules/update-notifier/node_modules/configstore/node_modules/js-yaml/node_modules/argparse/node_modules/underscore.string/test/test_underscore/vendor/jslitmus.js",
+		"/D/Projects/Portfolio/node_modules/bower/node_modules/update-notifier/node_modules/request/node_modules/mime/types/mime.types",
+		"/D/Projects/Portfolio/node_modules/http-server/node_modules/ecstatic/node_modules/mime/types/mime.types",
+		"/D/Projects/Portfolio/node_modules/karma/node_modules/mime/types/mime.types",
+		"/D/Projects/Portfolio/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/components/learnboost-engine.io-client/lib/util.js",
+		"/D/Projects/Portfolio/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/dist/socket.io.js",
+		"/D/Projects/Portfolio/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/dist/socket.io.min.js",
+		"/D/Projects/Portfolio/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/util.js",
+		"/D/Projects/Portfolio/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/transports/xhr-polling.js",
+		"/D/Projects/Portfolio/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/active-x-obfuscator/node_modules/zeparser/benchmark.html",
+		"/D/Projects/Portfolio/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/tmp/app.js",
+		"/D/Projects/Portfolio/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/History.md",
+		"/D/Projects/Portfolio/node_modules/karma/node_modules/useragent/lib/regexps.js",
+		"/D/Projects/Portfolio/node_modules/karma/node_modules/useragent/test/parser.test.js",
+		"/D/Projects/Portfolio/node_modules/karma/node_modules/useragent/test/fixtures/pgts.yaml",
+		"/D/Projects/Portfolio/node_modules/karma/node_modules/useragent/test/fixtures/testcases.yaml",
+		"/D/Projects/Portfolio/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/lib/phantom/examples/modernizr.js",
+		"/D/Projects/Portfolio/node_modules/protractor/docs/api.md",
+		"/D/Projects/Portfolio/node_modules/protractor/docs/getting-started.md",
+		"/D/Projects/Portfolio/node_modules/protractor/docs/build/protractor0005.md",
+		"/D/Projects/Portfolio/node_modules/protractor/docs/build/protractor0006.md",
+		"/D/Projects/Portfolio/node_modules/protractor/lib/protractor.js",
+		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_Capabilities.html",
+		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/docs/dossier.js",
+		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/docs/enum_webdriver_Browser.html",
+		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_bot_userAgent.html",
+		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_userAgent.html",
+		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_userAgent_product.html",
+		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/atoms/userAgent.js.src.html",
+		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/useragent/product.js.src.html",
+		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/useragent/product_isversion.js.src.html",
+		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/useragent/useragent.js.src.html",
+		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/webdriver/capabilities.js.src.html",
+		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/lib/atoms/userAgent.js",
+		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/useragent/product.js",
+		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/useragent/product_isversion.js",
+		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/useragent/useragent.js",
+		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/lib/test/index.js",
+		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver/capabilities.js",
+		"/D/Projects/Portfolio/node_modules/requirejs/bin/r.js",
+		"/D/Projects/Portfolio/scripts/private/README.md",
+		"/D/Projects/Portfolio/scripts/private/update-gh-pages.sh",
+		"/D/Projects/Portfolio/scripts/private/old/format-json.sh",
+		"/D/Projects/Portfolio/scripts/private/old/README.md",
+		"/D/Projects/Portfolio/scripts/private/old/ScrapeData.js",
+		"/D/Projects/Portfolio/scripts/private/old/snapshot.sh",
+		"/D/Projects/Portfolio/test/e2e/scenarios.js",
+		"/D/Projects/Portfolio/test/unit/controllersSpec.js",
+		"/D/Projects/Portfolio/test/unit/filtersSpec.js",
+		"/D/Projects/Portfolio/package.json",
+		"/D/Projects/Portfolio/.gitignore",
+		"/D/Projects/Portfolio/Portfolio.sublime-workspace",
 		"/D/Projects/ClaferMooVisualizer/Server/includes.json",
 		"/D/Shared/2014.04.25-call-with-Tom-Ramesh/notes-alex.txt",
 		"/D/Shared/2014.04.25-call-with-Tom-Ramesh/Domains.cfr",
 		"/D/Projects/ClaferMooVisualizer/Server/Client/custom_parallel_coordinates/parcoords.js",
 		"/C/Users/Alex/Downloads/instances.cfr (14).data",
-		"/C/Users/Alex/Desktop/GMClaferExamples/Domains2.cfr",
-		"/D/Projects/ClaferConfigurator/Server/commons/Client/utils/table_visualizer.js",
-		"/D/Projects/ClaferMooVisualizer/Server/Client/modules/md_spider_chart.js",
-		"/D/Projects/ClaferMooVisualizer/Server/Client/styles.css",
-		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/modules/md_feature_quality_matrix.js",
-		"/D/Projects/ClaferMooVisualizer/Server/Client/custom_parallel_coordinates/parcoords.css",
-		"/D/Projects/ClaferMooVisualizer/Server/Client/client.js",
-		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/utils/table_visualizer.js",
-		"/D/Projects/angular-projectcat/bower.json",
-		"/C/Users/Alex/Desktop/index.php",
-		"/D/Shared/2014.04.15 internal/Domains.cfr",
-		"/C/Users/Alex/Desktop/LOANER/modes/contractorPackaging_large_5_objectives.cfr",
-		"/D/Projects/ClaferMooVisualizer/Server/Client/modules/md_graph.js",
-		"/D/Projects/ClaferMooVisualizer/Server/Client/modules/md_parallel_coordinates.js",
-		"/D/Projects/ClaferMooVisualizer/Server/Client/utils/instance_filter.js",
-		"/D/Projects/ClaferMooVisualizer/Server/Client/modules/md_goals.js",
-		"/D/Projects/ClaferMooVisualizer/Server/ClaferMooVisualizer.js",
-		"/D/Projects/ClaferIDE/Server/ClaferIDE.js",
-		"/D/Projects/ClaferMooVisualizer/Server/Client/configuration.js",
-		"/D/Projects/ClaferMooVisualizer/Server/Client/utils/utils.js",
-		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/styles.css",
-		"/D/Projects/ClaferMooVisualizer/Server/Client/utils/radarchart_visualizer.js",
-		"/D/Projects/ClaferMooVisualizer/Server/Client/utils/evolution_controller.js",
-		"/C/Users/Alex/Downloads/instances.cfr (10).data",
-		"/C/Users/Alex/Downloads/instances.cfr (13).data",
-		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/utils/instance_processor.js",
-		"/D/Projects/ClaferMooVisualizer/Server/Client/utils/pf_visualizer.js",
-		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/utils/instance_converter.js",
-		"/D/Projects/ClaferMooVisualizer/Server/Client/utils/selection_controller.js",
-		"/D/Projects/ClaferMooVisualizer/Server/Client/modules/hovering_extensions.js",
-		"/D/Projects/ClaferMooVisualizer/Server/Client/modules/md_variant_comparer.js",
-		"/C/Users/Alex/Downloads/instances.cfr (tmp).data",
-		"/C/Users/Alex/Downloads/instances.cfr (9).data",
-		"/C/Users/Alex/Downloads/instances.cfr (8).data",
-		"/C/Users/Alex/Downloads/instances.cfr (7).data",
-		"/C/Users/Alex/Downloads/instances.cfr (4).data",
-		"/C/Users/Alex/Downloads/instances.cfr (2).data",
-		"/C/Users/Alex/Downloads/instances.cfr (3).data",
-		"/C/Users/Alex/Downloads/instances.cfr (6).data",
-		"/C/Users/Alex/Downloads/instances.cfr (5).data",
-		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/jquery-windows-engine/jquery.windows-engine.js",
-		"/C/Users/Alex/Downloads/instances.cfr (1).data",
-		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/main.js",
-		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/init.js",
-		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/app.html",
-		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/utils/data_table.js",
-		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/modules/md_goals.js",
-		"/D/Projects/ClaferMooVisualizer/Server/Client/parallel_coordinates/d3.parcoords.js",
-		"/D/Projects/ClaferMooVisualizer/Server/Client/parallel_coordinates/d3.parcoords.css",
-		"/C/Users/Alex/Downloads/Domains.cfr",
-		"/D/Projects/ClaferMooVisualizer/Server/Client/utils/dojo_init.js",
-		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/loader.js",
-		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/dojo/dojo/dojo.js",
-		"/D/Projects/ClaferConfigurator/Server/commons/Client/app.html",
-		"/C/Users/Alex/Desktop/tmp/backends.json",
-		"/D/Projects/chocosolver/target/compiled.js",
-		"/C/Users/Alex/Desktop/GMClaferExamples/Domains.cfr",
-		"/C/Users/Alex/Desktop/functional domains.txt",
-		"/D/Projects/ClaferIDE/Server/Backends/backends.json",
-		"/D/Projects/ClaferIDE/Server/commons/Client/modules/md_control.js",
-		"/D/Projects/ClaferIDE/Server/commons/common_lib.js",
-		"/D/Projects/ClaferConfigurator/Server/Backends/backends.json",
-		"/D/Projects/ClaferMooVisualizer/Server/Backends/backends.json",
-		"/D/Projects/ClaferConfigurator/Server/Client/configuration.js",
-		"/D/Projects/ClaferConfigurator/Server/Client/utils/worker.js",
-		"/D/Projects/ClaferIDE/Server/Client/configuration.js",
-		"/D/Projects/ClaferConfigurator/Server/commons/Client/modules/md_control.js",
-		"/D/Projects/ClaferIDE/Server/commons/Client/modules/md_input.js",
-		"/C/Users/Alex/Desktop/GMClaferExamples/1.cfr",
-		"/D/Projects/ClaferConfigurator/Server/commons/Client/utils/instance_converter.js",
-		"/C/Users/Alex/Desktop/backendsjson/backends.json",
-		"/C/Users/Alex/Desktop/backendsjson/listWebTools.sh",
-		"/C/Users/Alex/Desktop/accesscontrol.html",
-		"/D/Shared/2014.04.01-02 internal/ArchitecturalDecisions.cfr",
-		"/D/Projects/ClaferConfigurator/Server/Client/help_pages/intro.html",
-		"/C/Users/Alex/Desktop/GMClaferExamples/ASIL+NoIPMixing.cfr",
-		"/C/Users/Alex/Desktop/LOANER/modes/contractorPackaging_small.cfr",
-		"/C/Users/Alex/Desktop/backends.json",
-		"/D/Projects/ClaferConfigurator/Server/ClaferConfigurator.js",
-		"/C/Users/Alex/Desktop/backendsjson/runClaferZ3",
-		"/D/Projects/ClaferIDE/Server/config.json",
-		"/D/Projects/ClaferIDE/Server/package.json",
-		"/D/Projects/ClaferMooVisualizer/Server/package.json",
-		"/D/Projects/ClaferConfigurator/Server/config.json",
-		"/D/Projects/ClaferConfigurator/Server/package.json",
-		"/D/Projects/ClaferMooVisualizer/Server/Client/help_pages/intro.html",
-		"/D/Projects/ClaferConfigurator/Server/Client/help_pages/mdControl.html",
-		"/D/Projects/ClaferMooVisualizer/Server/Client/help_pages/mdFeatureQualityMatrix.html",
-		"/D/Projects/ClaferConfigurator/Server/Client/help_pages/mdFeatureQualityMatrix.html",
-		"/D/Projects/ClaferConfigurator/Server/Client/help_pages/mdInput.html",
-		"/D/Projects/ClaferConfigurator/Server/Client/help_pages/mdConstraints.html",
-		"/D/Projects/ClaferConfigurator/Server/Client/help_pages/mdOutput.html",
-		"/D/Projects/ClaferIDE/Server/Client/help_pages/mdControl.html",
-		"/D/Projects/ClaferIDE/Server/Client/help_pages/mdInput.html",
-		"/D/Projects/ClaferIDE/Server/Client/help_pages/mdCompiledFormats.html",
-		"/D/Projects/ClaferMooVisualizer/Server/Client/help_pages/mdGoals.html",
-		"/D/Projects/ClaferMooVisualizer/Server/Client/help_pages/mdGraph.html",
-		"/D/Projects/ClaferMooVisualizer/Server/Client/help_pages/mdVariantComparer.html",
-		"/D/Projects/ClaferMooVisualizer/Server/Client/help_pages/mdInput.html",
-		"/D/Projects/ClaferCaseStudies/AADLToClafer/AADL_Complete.cfr",
-		"/C/Users/Alex/Desktop/LOANER/modes/contractorPackaging_medium.cfr",
-		"/C/Users/Alex/Desktop/LOANER/modes/contractorPackaging_large.cfr",
-		"/C/Users/Alex/Desktop/tmp/listWebTools.sh",
-		"/D/Projects/ClaferConfigurator/Server/commons/Client/utils/instance_processor.js",
-		"/C/Users/Alex/Desktop/ASIL+NoIPMixing.cfr",
-		"/C/Users/Alex/Desktop/tmp/backends_conf.json",
-		"/C/Users/Alex/Desktop/tmp/startWebTools.sh",
-		"/D/Projects/ClaferConfigurator/Server/commons/start.sh",
-		"/D/Projects/ClaferMooVisualizer/Server/commons/start2.sh",
-		"/D/Projects/ClaferMooVisualizer/Server/commons/start.sh",
-		"/C/Users/Alex/Desktop/tmp/backends_moo.json",
-		"/C/Users/Alex/Desktop/tmp/backends_moo_new.json",
-		"/C/Users/Alex/Desktop/tmp/pullWebTools.sh",
-		"/C/Users/Alex/Desktop/tmp/backends_ide.json",
-		"/C/Users/Alex/Desktop/tmp/runClaferZ3",
-		"/D/Projects/ClaferConfigurator/Server/commons/Client/utils/data_table.js",
-		"/C/Users/Alex/Desktop/1.xml",
-		"/D/Projects/ClaferConfigurator/Server/Client/utils/utils.js",
-		"/D/Projects/ClaferConfigurator/Server/commons/Client/utils/clafer_processor.js",
-		"/C/Users/Alex/Desktop/GMClaferExamples/InterferenceSensitive+Integrated.cfr",
-		"/C/Users/Alex/Desktop/startWebTools.sh",
-		"/C/Users/Alex/Desktop/pullWebTools.sh",
-		"/C/Users/Alex/Desktop/listWebTools.sh"
+		"/C/Users/Alex/Desktop/GMClaferExamples/Domains2.cfr"
 	],
 	"find":
 	{
@@ -199,9 +267,11 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 105.0,
 		"where_history":
 		[
+			"",
+			"phone",
 			""
 		]
 	},
@@ -210,6 +280,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"9AADC1",
+			"white",
+			"view",
+			"phone",
 			"maxLe",
 			"&hellip;",
 			"…",
@@ -333,11 +407,7 @@
 			"selectio",
 			"select",
 			"e.",
-			"e",
-			"Format",
-			"%",
-			"jQuery",
-			"require"
+			"e"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -345,6 +415,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"project",
 			"innerWidth-rightMargin",
 			"context.dimensions",
 			"id",
@@ -359,8 +430,231 @@
 	"groups":
 	[
 		{
+			"selected": 7,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "app/partials/project-list.html",
+					"settings":
+					{
+						"buffer_size": 2465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2252,
+								2217
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 784.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/js/controllers.js",
+					"settings":
+					{
+						"buffer_size": 1703,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1025,
+								1025
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/partials/project-detail.html",
+					"settings":
+					{
+						"buffer_size": 1044,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								239,
+								239
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/css/app.css",
+					"settings":
+					{
+						"buffer_size": 2319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								541,
+								541
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 667.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/js/animations.js",
+					"settings":
+					{
+						"buffer_size": 927,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/index.html",
+					"settings":
+					{
+						"buffer_size": 1238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1012,
+								1138
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/js/services.js",
+					"settings":
+					{
+						"buffer_size": 329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								267,
+								267
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/css/background.css",
+					"settings":
+					{
+						"buffer_size": 1128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								905,
+								905
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 87.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],

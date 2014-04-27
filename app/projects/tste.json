@@ -1,15 +1,20 @@
 {
     "id": "tste", 
     "title": "Turbo String Table Editor",
+    "years": "2007",
     "category": "Desktop Application",
-    "authors": "Alexandr Murashkin", 
+    "authors": "Alexandr Murashkin (aka AlexanderMS)", 
     "description": [
-            "MOTOROLA ATRIX 4G gives you dual-core processing power and the revolutionary", 
-            "webtop application. With webtop and a compatible Motorola docking station", 
-            "sold separately, you can surf the Internet with a full Firefox browser, create", 
-            "and edit docs, or access multimedia on a large screen almost anywhere."
+            "This editor can edit string table files (*.CSF) for the games Command and Conquer: Generals (including Zero Hour),",
+            "Red Alert 2, and BFME. Extremely useful for creating mods and extensions to the games above",
+            "Has a module for searching for missing strings and their automatic inclusion in the files",
+            "Modders find this editor very stable and user-friendly"
         ],
+    "contribution": [
+        "The whole development with few exceptions listed in the tool's \"Special thanks\" section"
+    ],
     "commercial": false,
+    "binaryurl": "[Zipped installer](binary/projects/tste/turbostringeditorsetup.zip)",
     "technologies": "Delphi 7, WinAPI",
     "images": [
         "img/projects/tste/tste1.jpg", 

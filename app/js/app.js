@@ -4,6 +4,7 @@
 
 var projectcatApp = angular.module('projectcatApp', [
   'ngRoute',
+  'ngSanitize',
   'projectcatAnimations',
 
   'projectcatControllers',

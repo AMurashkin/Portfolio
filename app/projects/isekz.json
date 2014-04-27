@@ -1,17 +1,25 @@
 {
     "id": "isekz", 
     "title": "ISE.KZ",
+    "years": "2011-2012",
     "category": "Website",
     "authors": "Alexandr Murashkin", 
     "description": [
-            "MOTOROLA ATRIX 4G gives you dual-core processing power and the revolutionary", 
-            "webtop application. With webtop and a compatible Motorola docking station", 
-            "sold separately, you can surf the Internet with a full Firefox browser, create", 
-            "and edit docs, or access multimedia on a large screen almost anywhere."
+            "The official website of the International School of Economics and Social Sciences, one of the schools of Kazakh-British Technical University. ",
+            "The previous version was written using CMS ModX, and the design basics have been taken from the old version.",
+            "The new website version is developed by me using CMF Drupal was online from 2011 to 2013. ",
+            "The new school administration decided to change the website again, so that the current URL does not point to my version any more."
+        ],
+    "contribution": [
+            "Transition to Drupal CMF", 
+            "New, improved design", 
+            "Added new pages (Student Activity, Image Gallery, Best Students, Alumni, Search)", 
+            "Improved sections News and Events, Faculty and Staff, Contacts",
+            "Administrative Interface"
         ],
     "commercial": true,
     "technologies": "Drupal CMF, MySQL, PHP, Javascript, CSS, HTML",
-    "url": "http://ise.kz (now they have posted another version",
+    "url": "[Website](http://ise.kz) (no longer my version, unfortunately)",
     "images": [
         "img/projects/isekz/ise1.png", 
         "img/projects/isekz/ise2.png", 
