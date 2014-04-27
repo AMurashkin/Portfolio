@@ -12,6 +12,7 @@
     "contribution": [
             "The whole development from scratch. Password generation algorithms have been inferred experimentally"
         ],
+    "recognition": ["Primarily used by the game fans and myself"],
     "commercial": false,
     "technologies": "Written using pure WinAPI in Delphi language",
     "images": [

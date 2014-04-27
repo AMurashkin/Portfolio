@@ -17,6 +17,7 @@
             "Improved sections News and Events, Faculty and Staff, Contacts",
             "Administrative Interface"
         ],
+    "recognition": ["The official website of the school in 2011-2013"],
     "commercial": true,
     "technologies": "Drupal CMF, MySQL, PHP, Javascript, CSS, HTML",
     "url": "[Website](http://ise.kz) (no longer my version, unfortunately)",

@@ -205,6 +205,20 @@ ul.contribution li{
   padding:0;
 }
 
+div.recognition{
+    background: white;
+}
+
+ul.recognition{
+  list-style: none;
+}
+
+ul.recognition li{
+  margin:0;
+  padding:0;
+}
+
+
 .backlink{
   float:left;  
 }

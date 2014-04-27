@@ -13,6 +13,7 @@
     "contribution": [
         "The whole development with few exceptions listed in the tool's \"Special thanks\" section"
     ],
+    "recognition": ["Actively used in modding communities (e.g, Red System)"],
     "commercial": false,
     "binaryurl": "[Zipped installer](binary/projects/tste/turbostringeditorsetup.zip)",
     "technologies": "Delphi 7, WinAPI",
