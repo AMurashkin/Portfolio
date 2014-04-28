@@ -27,7 +27,7 @@ projectcatControllers.controller('projectListCtrl', ['$scope', 'project',
     $scope.user.phone = '+1 (226) 600 5529';
     $scope.user.email = 'amurashk@gsd.uwaterloo.ca';
     
-    $scope.orderProp = 'age';
+    $scope.orderProp = 'weight';
   }]);
 
 projectcatControllers.controller('projectDetailCtrl', ['$scope', '$routeParams', 'project',
