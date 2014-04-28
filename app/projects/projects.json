@@ -21,6 +21,13 @@
         "snippet": "An editor of CSF files - string tables used by the games Command and Conquer: Generals, Red Alert 2 and BFME"
     },
     {
+        "weight": 0,
+        "id": "claferwebtools",
+        "imageUrl": "img/projects/claferwebtools/visualizer1.png",
+        "name": "Clafer Web Tools",
+        "snippet": "Web Tools for domain modeling, configuration, visualization and exploration of optimal variants"
+    },
+    {
         "weight": 2,
         "id": "archangel",
         "imageUrl": "img/projects/archangel/archangel1.jpg",
