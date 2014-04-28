@@ -28,10 +28,24 @@
         "snippet": "Our Microsoft Imagine Cup 2012 project: an emergency monitoring system with integrated network of unmanned aerial vehicles"
     },
     {
-        "age": 3,
+        "age": 4,
         "id": "testograph",
         "imageUrl": "img/projects/testograph/testograph.jpg",
         "name": "Testograph",
         "snippet": "A software for designing paper-based tests"
-    }    
+    },
+    {
+        "age": 4,
+        "id": "rx4",
+        "imageUrl": "img/projects/rx4/rx4_1.png", 
+        "name": "Rock'n Roll Racing R - Rx4 Game Engine", 
+        "snippet": "A game engine for a remake of Rock'n Roll Racing - a famous SEGA console game"
+    },
+    {
+        "age": 4,
+        "id": "kbtucore",
+        "imageUrl": "img/projects/kbtucore/kbtucore1.png", 
+        "name": "KBTU Core - Publications Management System", 
+        "snippet": "A website for managing university faculty's publications"
+    }                    
 ]

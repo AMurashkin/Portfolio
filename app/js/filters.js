@@ -11,7 +11,7 @@ angular.module('projectcatFilters', []).filter('checkmark', function() {
 .filter('join', function() {
   return function(input) {
     if (input && input instanceof Array)
-    	return input.join(' ');
+    	return input.join(' ').replaceAll('\n', '<br/>');
 
    return input;
   };
@@ -19,15 +19,17 @@ angular.module('projectcatFilters', []).filter('checkmark', function() {
 
 .filter('filterUrl', function() {
   return function(input) {
-   return replaceURLWithHTMLLinks(input);
+    var re = /\[([^\]]*)\]\(([-a-z0-9+&@#\/%?=~_()|!:,.;]*)\)/ig;
+    return input.replace(re, function(match, title, url) {
+        return '<a target="_blank" href="' + url + '">' + title + '</a>';
+    });    
   };
 });
 
+String.prototype.replaceAll = function (replaceThis, withThis) {
+  return this.split(replaceThis).join(withThis);
+}
 
 function replaceURLWithHTMLLinks(text) {
-	text = '' + text;
-    var re = /\[([^\]]*)\]\(([-a-z0-9+&@#\/%?=~_()|!:,.;]*)\)/ig;
-    return text.replace(re, function(match, title, url) {
-        return "<a href='" + url + "'>" + title + "</a>";
-    });
+    
 }

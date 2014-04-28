@@ -11,37 +11,37 @@
   <br/><br/>
   <ul class="specs">
     <li>
-      <dt>Category</dt>
+      <dt>Category:</dt>
       <dd>{{project.category}}</dd>
-      <dt>Commercial</dt>
+      <dt>Commercial:</dt>
       <dd>{{project.commercial | checkmark}}</dd>
-      <dt>Developed in</dt>
+      <dt>Developed in:</dt>
       <dd>{{project.years}}</dd>
     </li>
     <li>
-      <dt>Authors</dt>
+      <dt>Authors:</dt>
       <dd>{{project.authors}}</dd>
-      <dt>Technologies</dt>
+      <dt>Technologies:</dt>
       <dd>{{project.technologies}}</dd>
     </li>
     <li>
       <div ng-if="project.url">
-        <dt>URL</dt>
+        <dt>Links:</dt>
         <dd ng-bind-html="project.url | filterUrl"></dd> 
       </div>
       <div ng-if="project.binaryurl">
-        <dt>Download</dt>
+        <dt>Download:</dt>
         <dd ng-bind-html="project.binaryurl | filterUrl"></dd> 
       <div>
       <div ng-if="project.sourceurl">
-        <dt>Source</dt>
+        <dt>Source:</dt>
         <dd ng-bind-html="project.sourceurl | filterUrl"></dd> 
       <div>
     </li>
   </ul>
   <br/>
   <dt>Description</dt>
-  <dd>{{project.description}}</dd>
+  <dd ng-bind-html="project.description | join"></dd>
   <br/>
   <dt>My Contribution</dt>
   <dd class="contribution">

@@ -34,7 +34,7 @@ projectcatControllers.controller('projectDetailCtrl', ['$scope', '$routeParams',
   function($scope, $routeParams, project) {
     $scope.project = project.get({projectId: $routeParams.projectId}, function(project) {
       $scope.mainImageUrl = project.images[0];
-      $scope.project.description = project.description.join(' ');
+//      $scope.project.description = project.description.join(' ');
       console.log($scope);
     });
 
