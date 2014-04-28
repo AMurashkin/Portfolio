@@ -47,5 +47,13 @@
         "imageUrl": "img/projects/kbtucore/kbtucore1.png", 
         "name": "KBTU Core - Publications Management System", 
         "snippet": "A website for managing university faculty's publications"
+    },
+    {
+        "age": 4,
+        "id": "flexy",
+        "imageUrl": "img/projects/flexy/flexy1.png", 
+        "name": "FLEXY - FiLe EXchange SYstem", 
+        "snippet": "A web-based system for internal file exchange"
     }                    
+
 ]
