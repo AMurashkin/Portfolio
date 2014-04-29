@@ -22,13 +22,13 @@
 }
 
 .stars .large {
-    background: url('/app/img/stars/stars_large.png');
+    background: url('../img/stars/stars_large.png');
 }
 
 .stars .medium {
-    background: url('/app/img/stars/stars_medium.png');
+    background: url('../img/stars/stars_medium.png');
 }
 
 .stars .small {
-    background: url('/app/img/stars/stars_small.png');
+    background: url('../img/stars/stars_small.png');
 }

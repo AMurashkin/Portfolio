@@ -4,9 +4,10 @@
 
 var projectcatControllers = angular.module('projectcatControllers', []);
 
-projectcatControllers.controller('projectListCtrl', ['$scope', 'project',
-  function($scope, project) {
-    $scope.projects = project.query();
+projectcatControllers.controller('projectListCtrl', ['$scope',
+  function($scope) {
+    $scope.projects = ProjectList();
+    //$scope.projects = project.query();
     $scope.user = {};
     $scope.user.name = 'Alexandr Murashkin';
     $scope.user.photoUrl = 'img/core/alexandr_murashkin.png';
@@ -31,12 +32,12 @@ projectcatControllers.controller('projectListCtrl', ['$scope', 'project',
     $scope.orderProp = 'weight';
   }]);
 
-projectcatControllers.controller('projectDetailCtrl', ['$scope', '$routeParams', 'project',
-  function($scope, $routeParams, project) {
-    $scope.project = project.get({projectId: $routeParams.projectId}, function(project) {
-      $scope.mainImageUrl = project.images[0];
-    });
+projectcatControllers.controller('projectDetailCtrl', ['$scope', '$routeParams',
+  function($scope, $routeParams) {
 
+    $scope.project = ProjectDetails($routeParams.projectId);
+    $scope.mainImageUrl = $scope.project.images[0];
+ 
     $scope.setImage = function(imageUrl) {
       $scope.mainImageUrl = imageUrl;
     }

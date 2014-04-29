@@ -17,6 +17,12 @@ angular.module('projectcatFilters', []).filter('checkmark', function() {
   };
 })
 
+.filter('getProjectScriptSrc', function() {
+  return function(input) {
+    return 'data/' + input + '.js';
+  };
+})
+
 .filter('filterUrl', function() {
   return function(input) {
     var re = /\[([^\]]*)\]\(([-a-z0-9+&@#\/%?=~_()|!:,.;]*)\)/ig;

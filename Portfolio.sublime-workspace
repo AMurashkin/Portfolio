@@ -48,26 +48,10 @@
 	"buffers":
 	[
 		{
-			"file": "app/partials/project-list.html",
+			"file": "app/index.html",
 			"settings":
 			{
-				"buffer_size": 2479,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/partials/project-detail.html",
-			"settings":
-			{
-				"buffer_size": 1909,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/css/app.css",
-			"settings":
-			{
-				"buffer_size": 2646,
+				"buffer_size": 1967,
 				"line_ending": "Windows"
 			}
 		},
@@ -75,55 +59,31 @@
 			"file": "app/js/controllers.js",
 			"settings":
 			{
-				"buffer_size": 1573,
+				"buffer_size": 1601,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/js/services.js",
+			"file": "app/js/app.js",
 			"settings":
 			{
-				"buffer_size": 329,
+				"buffer_size": 674,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/projects/projects.json",
+			"file": "app/partials/project-detail.js",
 			"settings":
 			{
-				"buffer_size": 2411,
+				"buffer_size": 2362,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/css/background.css",
+			"file": "app/partials/project-list.js",
 			"settings":
 			{
-				"buffer_size": 1127,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/index.html",
-			"settings":
-			{
-				"buffer_size": 1478,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/js/filters.js",
-			"settings":
-			{
-				"buffer_size": 804,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/projects/archangel.json",
-			"settings":
-			{
-				"buffer_size": 2431,
+				"buffer_size": 3220,
 				"line_ending": "Windows"
 			}
 		}
@@ -152,6 +112,29 @@
 	},
 	"file_history":
 	[
+		"/D/Projects/Portfolio/app/data/projects.js",
+		"/D/Projects/Portfolio/app/data/rx4.js",
+		"/D/Projects/Portfolio/app/data/rrrpg.js",
+		"/D/Projects/Portfolio/app/data/flexy.js",
+		"/D/Projects/Portfolio/app/css/background.css",
+		"/D/Projects/Portfolio/app/css/app.css",
+		"/D/Projects/Portfolio/app/partials/project-list.js",
+		"/D/Projects/Portfolio/app/data/testograph.js",
+		"/D/Projects/Portfolio/app/data/tste.js",
+		"/D/Projects/Portfolio/app/data/claferwebtools.js",
+		"/D/Projects/Portfolio/app/js/filters.js",
+		"/D/Projects/Portfolio/app/data/isekz.js",
+		"/D/Projects/Portfolio/app/data/kbtucore.js",
+		"/D/Projects/Portfolio/app/data/archangel.js",
+		"/D/Projects/Portfolio/app/js/directives.js",
+		"/D/Projects/Portfolio/.gitignore",
+		"/D/Projects/Portfolio/app/js/services.js",
+		"/D/Projects/Portfolio/app/projects/archangel.js",
+		"/D/Projects/Portfolio/app/projects/testograph.js",
+		"/D/Projects/Portfolio/app/projects/isekz.js",
+		"/D/Projects/Portfolio/app/projects/tste.js",
+		"/D/Projects/Portfolio/app/projects/kbtucore.js",
+		"/D/Projects/Portfolio/app/projects/projects.js",
 		"/D/Projects/Portfolio/app/projects/claferwebtools.json",
 		"/D/Projects/Portfolio/package.json",
 		"/D/Projects/Portfolio/app/projects/flexy.json",
@@ -159,10 +142,8 @@
 		"/D/Projects/Portfolio/app/projects/archangel.json",
 		"/D/Projects/Portfolio/app/projects/rrrpg.json",
 		"/D/Projects/Portfolio/app/projects/kbtucore.json",
-		"/D/Projects/Portfolio/app/js/filters.js",
 		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/init.js",
 		"/D/Projects/Portfolio/app/index.html",
-		"/D/Projects/Portfolio/app/css/background.css",
 		"/D/Projects/Portfolio/app/projects/testograph.json",
 		"/D/Projects/Portfolio/app/js/animations.js",
 		"/D/Projects/Portfolio/app/projects/tste.json",
@@ -171,13 +152,11 @@
 		"/D/Projects/Portfolio/app/js/app.js",
 		"/D/Projects/Portfolio/app/css/animations.css",
 		"/D/Projects/Portfolio/app/projects/projects.json",
-		"/D/Projects/Portfolio/app/js/services.js",
 		"/D/Projects/Portfolio/app/projects/t-mobile-mytouch-4g.json",
 		"/D/Projects/Portfolio/app/partials/project-detail.html",
 		"/D/Projects/Portfolio/app/projects/motorola-atrix-4g.json",
 		"/D/Projects/Portfolio/app/js/controllers.js",
 		"/D/Projects/Portfolio/app/partials/project-list.html",
-		"/D/Projects/Portfolio/app/css/app.css",
 		"/D/Projects/Portfolio/app/partials/phone-detail.html",
 		"/D/Projects/Portfolio/app/partials/phone-list.html",
 		"/D/Projects/Portfolio/app/phones/dell-streak-7.json",
@@ -260,26 +239,7 @@
 		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_userAgent_product.html",
 		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/atoms/userAgent.js.src.html",
 		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/useragent/product.js.src.html",
-		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/useragent/product_isversion.js.src.html",
-		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/useragent/useragent.js.src.html",
-		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/webdriver/capabilities.js.src.html",
-		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/lib/atoms/userAgent.js",
-		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/useragent/product.js",
-		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/useragent/product_isversion.js",
-		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/useragent/useragent.js",
-		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/lib/test/index.js",
-		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver/capabilities.js",
-		"/D/Projects/Portfolio/node_modules/requirejs/bin/r.js",
-		"/D/Projects/Portfolio/scripts/private/README.md",
-		"/D/Projects/Portfolio/scripts/private/update-gh-pages.sh",
-		"/D/Projects/Portfolio/scripts/private/old/format-json.sh",
-		"/D/Projects/Portfolio/scripts/private/old/README.md",
-		"/D/Projects/Portfolio/scripts/private/old/ScrapeData.js",
-		"/D/Projects/Portfolio/scripts/private/old/snapshot.sh",
-		"/D/Projects/Portfolio/test/e2e/scenarios.js",
-		"/D/Projects/Portfolio/test/unit/controllersSpec.js",
-		"/D/Projects/Portfolio/test/unit/filtersSpec.js",
-		"/D/Projects/Portfolio/.gitignore"
+		"/D/Projects/Portfolio/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/useragent/product_isversion.js.src.html"
 	],
 	"find":
 	{
@@ -300,6 +260,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"',",
+			"^",
+			"$",
+			"^",
 			"sourceurl",
 			"\"age\"",
 			"age",
@@ -423,18 +387,20 @@
 			"data",
 			"cars",
 			"pcCh",
-			"d3",
-			"clearSe",
-			"selection",
-			"radar-chart-serie",
-			"parsePID"
+			"d3"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
+			"\\\\n',",
+			"\\n',",
+			"'",
+			"',",
+			"'",
+			"+ '",
 			"project",
 			"innerWidth-rightMargin",
 			"context.dimensions",
@@ -444,29 +410,29 @@
 		"reverse": false,
 		"show_context": true,
 		"use_buffer2": true,
-		"whole_word": true,
+		"whole_word": false,
 		"wrap": true
 	},
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "app/partials/project-list.html",
+					"file": "app/index.html",
 					"settings":
 					{
-						"buffer_size": 2479,
+						"buffer_size": 1967,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1149,
-								1149
+								455,
+								455
 							]
 						],
 						"settings":
@@ -476,81 +442,25 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 370.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "app/partials/project-detail.html",
-					"settings":
-					{
-						"buffer_size": 1909,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								498,
-								498
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 71.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "app/css/app.css",
-					"settings":
-					{
-						"buffer_size": 2646,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								160,
-								160
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 3474.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "app/js/controllers.js",
 					"settings":
 					{
-						"buffer_size": 1573,
+						"buffer_size": 1601,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1560,
-								1560
+								986,
+								986
 							]
 						],
 						"settings":
@@ -560,25 +470,81 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 509.0,
+						"translation.y": 133.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "app/js/services.js",
+					"buffer": 2,
+					"file": "app/js/app.js",
 					"settings":
 					{
-						"buffer_size": 329,
+						"buffer_size": 674,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								267,
-								267
+								115,
+								115
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/partials/project-detail.js",
+					"settings":
+					{
+						"buffer_size": 2362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								403,
+								403
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 23.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/partials/project-list.js",
+					"settings":
+					{
+						"buffer_size": 3220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3031,
+								3031
 							]
 						],
 						"settings":
@@ -586,147 +552,7 @@
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "app/projects/projects.json",
-					"settings":
-					{
-						"buffer_size": 2411,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								819,
-								819
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 317.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "app/css/background.css",
-					"settings":
-					{
-						"buffer_size": 1127,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "app/index.html",
-					"settings":
-					{
-						"buffer_size": 1478,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1462,
-								1462
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 48.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "app/js/filters.js",
-					"settings":
-					{
-						"buffer_size": 804,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								207,
-								207
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "app/projects/archangel.json",
-					"settings":
-					{
-						"buffer_size": 2431,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								49,
-								49
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1053.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

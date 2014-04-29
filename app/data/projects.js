@@ -1,4 +1,39 @@
-[
+function Projects()
+{
+    var result = [];
+    result.push("archangel");
+    result.push("claferwebtools");
+    result.push("flexy");
+    result.push("isekz");
+    result.push("kbtucore");
+    result.push("rrrpg");
+    result.push("rx4");
+    result.push("testograph");
+    result.push("tste");
+
+    return result;
+}
+
+function ProjectDetails(projectId)
+{
+    var projects = Projects();
+    console.log(projectId);
+    for (var i in projects)
+    {
+        if (projects[i] == projectId)
+        {
+            console.log(projectId);
+            var fn = window[projectId];
+            console.log(fn);
+            return fn();
+        }
+    }
+    return null;
+}
+
+function ProjectList()
+{
+    var result = [
     {
         "weight": 4, 
         "id": "isekz", 
@@ -62,5 +97,7 @@
         "name": "FLEXY - FiLe EXchange SYstem", 
         "snippet": "A web-based system for internal file exchange"
     }                    
+    ];
 
-]
+    return result;
+}

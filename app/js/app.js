@@ -8,22 +8,24 @@ var projectcatApp = angular.module('projectcatApp', [
   'projectcatAnimations',
 
   'projectcatControllers',
-  'projectcatFilters',
-  'projectcatServices'
+  'projectcatFilters'
 ]);
 
-projectcatApp.config(['$routeProvider',
-  function($routeProvider) {
+projectcatApp.config(function($locationProvider, $routeProvider) {
+
+    $locationProvider.hashPrefix("!");
+    $locationProvider.html5Mode(false);
+
     $routeProvider.
       when('/projects', {
-        templateUrl: 'partials/project-list.html',
+        template: PartialProjectList(),
         controller: 'projectListCtrl'
       }).
       when('/projects/:projectId', {
-        templateUrl: 'partials/project-detail.html',
+        template: PartialProjectDetail(),
         controller: 'projectDetailCtrl'
       }).
       otherwise({
         redirectTo: '/projects'
       });
-  }]);
+  });
