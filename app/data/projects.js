@@ -17,14 +17,11 @@ function Projects()
 function ProjectDetails(projectId)
 {
     var projects = Projects();
-    console.log(projectId);
     for (var i in projects)
     {
         if (projects[i] == projectId)
         {
-            console.log(projectId);
             var fn = window[projectId];
-            console.log(fn);
             return fn();
         }
     }
