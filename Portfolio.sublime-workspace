@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"replace",
+				"replaceAll"
+			],
+			[
 				"back",
 				"background"
 			],
@@ -47,15 +51,7 @@
 			"file": "app/partials/project-list.html",
 			"settings":
 			{
-				"buffer_size": 2465,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/js/controllers.js",
-			"settings":
-			{
-				"buffer_size": 1703,
+				"buffer_size": 2479,
 				"line_ending": "Windows"
 			}
 		},
@@ -63,7 +59,7 @@
 			"file": "app/partials/project-detail.html",
 			"settings":
 			{
-				"buffer_size": 1044,
+				"buffer_size": 1909,
 				"line_ending": "Windows"
 			}
 		},
@@ -71,23 +67,15 @@
 			"file": "app/css/app.css",
 			"settings":
 			{
-				"buffer_size": 2319,
+				"buffer_size": 2646,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/js/animations.js",
+			"file": "app/js/controllers.js",
 			"settings":
 			{
-				"buffer_size": 927,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/index.html",
-			"settings":
-			{
-				"buffer_size": 1238,
+				"buffer_size": 1573,
 				"line_ending": "Windows"
 			}
 		},
@@ -100,10 +88,42 @@
 			}
 		},
 		{
+			"file": "app/projects/projects.json",
+			"settings":
+			{
+				"buffer_size": 2411,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "app/css/background.css",
 			"settings":
 			{
-				"buffer_size": 1128,
+				"buffer_size": 1127,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 1478,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/filters.js",
+			"settings":
+			{
+				"buffer_size": 804,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/projects/archangel.json",
+			"settings":
+			{
+				"buffer_size": 2431,
 				"line_ending": "Windows"
 			}
 		}
@@ -132,22 +152,30 @@
 	},
 	"file_history":
 	[
+		"/D/Projects/Portfolio/app/projects/claferwebtools.json",
+		"/D/Projects/Portfolio/package.json",
+		"/D/Projects/Portfolio/app/projects/flexy.json",
+		"/D/Projects/Portfolio/app/projects/rx4.json",
+		"/D/Projects/Portfolio/app/projects/archangel.json",
+		"/D/Projects/Portfolio/app/projects/rrrpg.json",
+		"/D/Projects/Portfolio/app/projects/kbtucore.json",
+		"/D/Projects/Portfolio/app/js/filters.js",
+		"/D/Projects/ClaferMooVisualizer/Server/commons/Client/init.js",
+		"/D/Projects/Portfolio/app/index.html",
+		"/D/Projects/Portfolio/app/css/background.css",
+		"/D/Projects/Portfolio/app/projects/testograph.json",
+		"/D/Projects/Portfolio/app/js/animations.js",
+		"/D/Projects/Portfolio/app/projects/tste.json",
+		"/D/Projects/Portfolio/app/projects/isekz.json",
+		"/D/Projects/Portfolio/bower.json",
 		"/D/Projects/Portfolio/app/js/app.js",
 		"/D/Projects/Portfolio/app/css/animations.css",
 		"/D/Projects/Portfolio/app/projects/projects.json",
-		"/D/Projects/Portfolio/app/js/filters.js",
 		"/D/Projects/Portfolio/app/js/services.js",
-		"/D/Projects/Portfolio/app/projects/rrrpg.json",
-		"/D/Projects/Portfolio/app/projects/tste.json",
-		"/D/Projects/Portfolio/app/css/background.css",
-		"/D/Projects/Portfolio/app/projects/isekz.json",
 		"/D/Projects/Portfolio/app/projects/t-mobile-mytouch-4g.json",
-		"/D/Projects/Portfolio/bower.json",
-		"/D/Projects/Portfolio/app/index.html",
 		"/D/Projects/Portfolio/app/partials/project-detail.html",
 		"/D/Projects/Portfolio/app/projects/motorola-atrix-4g.json",
 		"/D/Projects/Portfolio/app/js/controllers.js",
-		"/D/Projects/Portfolio/app/js/animations.js",
 		"/D/Projects/Portfolio/app/partials/project-list.html",
 		"/D/Projects/Portfolio/app/css/app.css",
 		"/D/Projects/Portfolio/app/partials/phone-detail.html",
@@ -251,15 +279,7 @@
 		"/D/Projects/Portfolio/test/e2e/scenarios.js",
 		"/D/Projects/Portfolio/test/unit/controllersSpec.js",
 		"/D/Projects/Portfolio/test/unit/filtersSpec.js",
-		"/D/Projects/Portfolio/package.json",
-		"/D/Projects/Portfolio/.gitignore",
-		"/D/Projects/Portfolio/Portfolio.sublime-workspace",
-		"/D/Projects/ClaferMooVisualizer/Server/includes.json",
-		"/D/Shared/2014.04.25-call-with-Tom-Ramesh/notes-alex.txt",
-		"/D/Shared/2014.04.25-call-with-Tom-Ramesh/Domains.cfr",
-		"/D/Projects/ClaferMooVisualizer/Server/Client/custom_parallel_coordinates/parcoords.js",
-		"/C/Users/Alex/Downloads/instances.cfr (14).data",
-		"/C/Users/Alex/Desktop/GMClaferExamples/Domains2.cfr"
+		"/D/Projects/Portfolio/.gitignore"
 	],
 	"find":
 	{
@@ -267,7 +287,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 105.0,
+		"height": 0.0,
 		"where_history":
 		[
 			"",
@@ -280,6 +300,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"sourceurl",
+			"\"age\"",
+			"age",
+			"addClass",
+			"printdialog",
+			"\\",
+			"D:\\Projects\\Portfolio\\app\\img",
+			"desc",
+			"):\\/\\/)?[-",
+			"dd",
 			"9AADC1",
 			"white",
 			"view",
@@ -397,17 +427,7 @@
 			"clearSe",
 			"selection",
 			"radar-chart-serie",
-			"parsePID",
-			"PID",
-			"onSelectionChanged",
-			"toolt",
-			"mouseover",
-			"args",
-			"argsToArray",
-			"selectio",
-			"select",
-			"e.",
-			"e"
+			"parsePID"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -424,13 +444,13 @@
 		"reverse": false,
 		"show_context": true,
 		"use_buffer2": true,
-		"whole_word": false,
+		"whole_word": true,
 		"wrap": true
 	},
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -438,15 +458,15 @@
 					"file": "app/partials/project-list.html",
 					"settings":
 					{
-						"buffer_size": 2465,
+						"buffer_size": 2479,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2252,
-								2217
+								1149,
+								1149
 							]
 						],
 						"settings":
@@ -456,53 +476,25 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 784.0,
+						"translation.y": 370.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "app/js/controllers.js",
-					"settings":
-					{
-						"buffer_size": 1703,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1025,
-								1025
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "app/partials/project-detail.html",
 					"settings":
 					{
-						"buffer_size": 1044,
+						"buffer_size": 1909,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								239,
-								239
+								498,
+								498
 							]
 						],
 						"settings":
@@ -512,25 +504,25 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 71.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 2,
 					"file": "app/css/app.css",
 					"settings":
 					{
-						"buffer_size": 2319,
+						"buffer_size": 2646,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								541,
-								541
+								160,
+								160
 							]
 						],
 						"settings":
@@ -540,25 +532,25 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 667.0,
+						"translation.y": 3474.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "app/js/animations.js",
+					"buffer": 3,
+					"file": "app/js/controllers.js",
 					"settings":
 					{
-						"buffer_size": 927,
+						"buffer_size": 1573,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								26,
-								26
+								1560,
+								1560
 							]
 						],
 						"settings":
@@ -568,41 +560,13 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 509.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "app/index.html",
-					"settings":
-					{
-						"buffer_size": 1238,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1012,
-								1138
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
+					"buffer": 4,
 					"file": "app/js/services.js",
 					"settings":
 					{
@@ -628,19 +592,47 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "app/css/background.css",
+					"buffer": 5,
+					"file": "app/projects/projects.json",
 					"settings":
 					{
-						"buffer_size": 1128,
+						"buffer_size": 2411,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								905,
-								905
+								819,
+								819
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 317.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/css/background.css",
+					"settings":
+					{
+						"buffer_size": 1127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
@@ -650,7 +642,91 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 87.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/index.html",
+					"settings":
+					{
+						"buffer_size": 1478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1462,
+								1462
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 48.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/js/filters.js",
+					"settings":
+					{
+						"buffer_size": 804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								207,
+								207
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/projects/archangel.json",
+					"settings":
+					{
+						"buffer_size": 2431,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

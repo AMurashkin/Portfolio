@@ -26,6 +26,7 @@ projectcatControllers.controller('projectListCtrl', ['$scope', 'project',
     $scope.user.status = 'Graduate Research Assistant, writing a Master\'s thesis';
     $scope.user.phone = '+1 (226) 600 5529';
     $scope.user.email = 'amurashk@gsd.uwaterloo.ca';
+    $scope.user.cv = 'binary/core/alexander_murashkin.pdf';
     
     $scope.orderProp = 'weight';
   }]);
