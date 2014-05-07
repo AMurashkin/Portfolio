@@ -13,7 +13,7 @@ var projectcatApp = angular.module('projectcatApp', [
 
 projectcatApp.config(function($locationProvider, $routeProvider) {
 
-    $locationProvider.hashPrefix("!");
+    $locationProvider.hashPrefix("show");
     $locationProvider.html5Mode(false);
 
     $routeProvider.
@@ -21,7 +21,7 @@ projectcatApp.config(function($locationProvider, $routeProvider) {
         template: PartialProjectList(),
         controller: 'projectListCtrl'
       }).
-      when('/projects/:projectId', {
+      when('/project/:projectId', {
         template: PartialProjectDetail(),
         controller: 'projectDetailCtrl'
       }).

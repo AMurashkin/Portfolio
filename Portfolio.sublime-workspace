@@ -51,7 +51,7 @@
 			"file": "app/index.html",
 			"settings":
 			{
-				"buffer_size": 1967,
+				"buffer_size": 1855,
 				"line_ending": "Windows"
 			}
 		},
@@ -84,6 +84,31 @@
 			"settings":
 			{
 				"buffer_size": 3220,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "RewriteEngine On\nRewriteCond %{HTTP_HOST} ^amurashkin.kd.io [NC]\nRewriteRule ^(.*) http://amurashkin.kd.io/Portfolio/app/$1 [R=301]",
+			"settings":
+			{
+				"buffer_size": 131,
+				"line_ending": "Windows",
+				"name": "RewriteEngine On"
+			}
+		},
+		{
+			"file": "app/data/projects.js",
+			"settings":
+			{
+				"buffer_size": 3047,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Projects/ClaferMooVisualizer/Server/Backends/backends.json",
+			"settings":
+			{
+				"buffer_size": 880,
 				"line_ending": "Windows"
 			}
 		}
@@ -260,6 +285,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"-",
 			"',",
 			"^",
 			"$",
@@ -386,8 +412,7 @@
 			"body",
 			"data",
 			"cars",
-			"pcCh",
-			"d3"
+			"pcCh"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -416,7 +441,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 7,
 			"sheets":
 			[
 				{
@@ -424,15 +449,15 @@
 					"file": "app/index.html",
 					"settings":
 					{
-						"buffer_size": 1967,
+						"buffer_size": 1855,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								455,
-								455
+								834,
+								834
 							]
 						],
 						"settings":
@@ -487,8 +512,8 @@
 						"selection":
 						[
 							[
-								115,
-								115
+								142,
+								142
 							]
 						],
 						"settings":
@@ -553,6 +578,88 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 1053.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"settings":
+					{
+						"buffer_size": 131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"auto_name": "RewriteEngine On",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/data/projects.js",
+					"settings":
+					{
+						"buffer_size": 3047,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								468,
+								468
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 271.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/D/Projects/ClaferMooVisualizer/Server/Backends/backends.json",
+					"settings":
+					{
+						"buffer_size": 880,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								617,
+								617
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

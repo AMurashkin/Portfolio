@@ -34,7 +34,6 @@ function archangel()
             "img/projects/archangel/archangel6.jpg", 
             "img/projects/archangel/archangel7.jpg", 
             "img/projects/archangel/archangel8.jpg", 
-            "img/projects/archangel/photo1.jpg",
             "img/projects/archangel/photo2.jpg",
             "img/projects/archangel/photo3.jpg"
         ]

@@ -10,6 +10,7 @@ function Projects()
     result.push("rx4");
     result.push("testograph");
     result.push("tste");
+    result.push("kernel");
 
     return result;
 }
@@ -39,14 +40,14 @@ function ProjectList()
         "snippet": "Website for the International School of Economics and Social Science"
     }, 
     {
-        "weight": 4, 
+        "weight": 5, 
         "id": "rrrpg", 
         "imageUrl": "img/projects/rrrpg/rrrpg.png", 
         "name": "Rock'n Roll Racing Password Generator", 
         "snippet": "A tool for generating passwords for Rock'n Roll Racing - a famous SEGA console game"
     }, 
     {
-        "weight": 4, 
+        "weight": 5, 
         "id": "tste", 
         "imageUrl": "img/projects/tste/tste1.jpg", 
         "name": "Turbo String Table Editor", 
@@ -60,6 +61,13 @@ function ProjectList()
         "snippet": "Web Tools for domain modeling, configuration, visualization and exploration of optimal variants"
     },
     {
+        "weight": 1,
+        "id": "kernel",
+        "imageUrl": "img/projects/kernel/kernel2.png",
+        "name": "ZX Kernel",
+        "snippet": "Real-time operating system with a project built on top of it"
+    },
+    {
         "weight": 2,
         "id": "archangel",
         "imageUrl": "img/projects/archangel/archangel1.jpg",
@@ -67,7 +75,7 @@ function ProjectList()
         "snippet": "Our Microsoft Imagine Cup 2012 project: an emergency monitoring system with integrated network of unmanned aerial vehicles"
     },
     {
-        "weight": 4,
+        "weight": 5,
         "id": "testograph",
         "imageUrl": "img/projects/testograph/testograph.jpg",
         "name": "Testograph",
@@ -81,7 +89,7 @@ function ProjectList()
         "snippet": "A game engine for a remake of Rock'n Roll Racing - a famous SEGA console game"
     },
     {
-        "weight": 4,
+        "weight": 5,
         "id": "kbtucore",
         "imageUrl": "img/projects/kbtucore/kbtucore1.png", 
         "name": "KBTU Core - Publications Management System", 
