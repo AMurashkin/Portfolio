@@ -24,7 +24,7 @@ function PartialProjectDetail()
 '    <li>\n',
 '      <dt>Authors:</dt>\n',
 '      <dd>{{project.authors}}</dd>\n',
-'      <dt>Technologies:</dt>\n',
+'      <dt>Languages and Technologies:</dt>\n',
 '      <dd>{{project.technologies}}</dd>\n',
 '    </li>\n',
 '    <li>\n',
