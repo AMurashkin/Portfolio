@@ -1,6 +1,16 @@
 function PartialProjectDetail()
 {
   return [
+'\n',
+'<div class="project-thumbs-container">\n',
+'<ul class="project-thumbs">\n',
+'  <li ng-repeat="img in project.images">\n',
+'    <img ng-src="{{img}}" ng-click="setImage(img)">\n',
+'  </li>\n',
+'</ul>\n',
+'</div>\n',
+'\n',
+'<table width="100%"><tr><td>',
 '<div class="project-images">\n',
 '  <img ng-src="{{img}}"\n',
 '       class="project"\n',
@@ -8,6 +18,7 @@ function PartialProjectDetail()
 '       ng-class="{active: mainImageUrl==img}">\n',
 '</div>\n',
 '\n',
+'</td><td class="content">',
 '<div>\n',
 '  <h1>{{project.title}}</h1>\n',
 '  <a href="index.html#show/projects">&#8592; Back to Project List</a>\n',
@@ -66,17 +77,8 @@ function PartialProjectDetail()
 '  <br/>\n',
 '  <div class="backlink"><a href="index.html#show/projects/">&#8592; Back to Project List</a></div>\n',
 '</div>\n',
+'</td></tr></table>\n',
 '\n',
-'<div class="project-thumbs-container">\n',
-'<span>Click to enlarge the images below:</span>\n',
-'<ul class="project-thumbs">\n',
-'  <li ng-repeat="img in project.images">\n',
-'    <img ng-src="{{img}}" ng-click="setImage(img)">\n',
-'  </li>\n',
-'</ul>\n',
-'\n',
-'\n',
-'\n',
-'</div>'
+'\n'
 ].join("");
 }

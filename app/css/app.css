@@ -17,6 +17,14 @@ a:hover {
 a:active { 
 } 
 
+a.email{
+  font-size:smaller;
+}
+
+span.call{
+  font-size:smaller;  
+}
+
 body {
   padding:0;
   margin:0;
@@ -30,12 +38,19 @@ div.view-container{
 
 .project-images {
   margin-right:1em;
+  margin-top:1em;
   width: 600px;
   height: 600px;
   overflow: hidden;
   position: relative;
-  border: 1px solid gray;
   float: left;
+}
+
+td.content{
+   border-left: 1px solid gray;
+   padding-left: 1em;
+   padding-right: 1em;
+   padding-bottom: 1em;
 }
 
 .projects {
@@ -219,4 +234,8 @@ ul.recognition li{
 
 .backlink{
   float:left;  
+}
+
+table td{
+  vertical-align: top;
 }

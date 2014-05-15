@@ -5,7 +5,6 @@ function user()
     user.photoUrl = 'img/core/alexandr_murashkin.png';
     user.linkedInUrl = 'http://www.linkedin.com/pub/alexander-murashkin/59/262/527';
     user.labUrl = 'http://gsd.uwaterloo.ca/amurashk';
-    user.cvUrl = 'binary/alexandr_murashkin.pdf';
     user.degree = [];
     user.degree[0] = {
       'title': 'MMath in Computer Science, University of Waterloo, ON, Canada (expected Aug 2014)',
@@ -19,7 +18,7 @@ function user()
     user.status = 'Graduate Research Assistant, writing a Master\'s thesis';
     user.phone = '+1 (226) 600 5529';
     user.email = 'amurashk@gsd.uwaterloo.ca';
-    user.cv = 'binary/core/alexander_murashkin.pdf';
+    user.cv = 'binary/core/alexandr_murashkin.pdf';
 
     return user;
 }
